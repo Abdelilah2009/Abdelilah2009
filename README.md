@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abdelilah2009
+- 👀 I’m interested in Coding and I love this job
+- 🌱 I’m currently learning js and react js
+- I ,m a junior frontend developper
