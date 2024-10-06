@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 -->
 
+<!-- test
 [My Blog](https://github.com/Abdelilah2009/) | [Twitter](https://twitter.com/) | [Github](https://github.com/)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viralmaniar)](https://github.com/Viralmaniar)
@@ -28,3 +29,4 @@ Here are some ideas to get you started:
 		<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+-->
